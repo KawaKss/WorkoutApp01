@@ -11,12 +11,12 @@ import org.jetbrains.anko.info
 import org.jetbrains.anko.intentFor
 import org.jetbrains.anko.toast
 import org.wit.workout.R
-import org.wit.workout.helpers.readImage
-import org.wit.workout.helpers.readImageFromPath
-import org.wit.workout.helpers.showImagePicker
-import org.wit.workout.main.MainApp
-import org.wit.workout.models.Location
-import org.wit.workout.models.WorkoutModel
+import org.wit.workoutapp01.helpers.readImage
+import org.wit.workoutapp01.helpers.readImageFromPath
+import org.wit.workoutapp01.helpers.showImagePicker
+import org.wit.workoutapp01.main.MainApp
+import org.wit.workoutapp01.models.Location
+import org.wit.workoutapp01.models.WorkoutModel
 
 class WorkoutActivity : AppCompatActivity(), AnkoLogger {
 

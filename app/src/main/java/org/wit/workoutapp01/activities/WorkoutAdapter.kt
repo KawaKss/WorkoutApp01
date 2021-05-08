@@ -8,8 +8,8 @@ import kotlinx.android.synthetic.main.activity_workout.view.*
 import kotlinx.android.synthetic.main.card_workout.view.*
 import kotlinx.android.synthetic.main.card_workout.view.workoutTitle
 import org.wit.workout.R
-import org.wit.workout.helpers.readImageFromPath
-import org.wit.workout.models.WorkoutModel
+import org.wit.workoutapp01.helpers.readImageFromPath
+import org.wit.workoutapp01.models.WorkoutModel
 
 interface WorkoutListener {
     fun onWorkoutClick(workout: WorkoutModel)

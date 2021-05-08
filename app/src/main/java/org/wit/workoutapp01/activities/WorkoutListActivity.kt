@@ -8,9 +8,9 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import kotlinx.android.synthetic.main.activity_workout_list.*
 import org.jetbrains.anko.intentFor
 import org.wit.workout.R
-import org.wit.workout.main.MainApp
+import org.wit.workoutapp01.main.MainApp
 import org.jetbrains.anko.startActivityForResult
-import org.wit.workout.models.WorkoutModel
+import org.wit.workoutapp01.models.WorkoutModel
 
 class WorkoutListActivity : AppCompatActivity(), WorkoutListener {
 

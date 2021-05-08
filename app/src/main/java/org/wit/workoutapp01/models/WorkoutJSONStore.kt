@@ -5,7 +5,7 @@ import com.google.gson.Gson
 import com.google.gson.GsonBuilder
 import com.google.gson.reflect.TypeToken
 import org.jetbrains.anko.AnkoLogger
-import org.wit.workout.helpers.*
+import org.wit.workoutapp01.helpers.*
 import java.util.*
 
 val JSON_FILE = "workouts.json"
