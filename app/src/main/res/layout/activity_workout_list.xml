@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="org.wit.workout.activities.WorkoutListActivity"
+    tools:context="org.wit.workoutapp01.activities.WorkoutListActivity"
     android:background="@drawable/gradiant_background">
 
     <com.google.android.material.appbar.AppBarLayout

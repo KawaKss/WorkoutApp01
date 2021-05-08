@@ -7,7 +7,7 @@ import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.graphics.ImageDecoder
 import android.net.Uri
-import org.wit.workout.R
+import org.wit.workoutapp01.R
 import java.io.IOException
 
 fun showImagePicker(parent: Activity, id: Int) {

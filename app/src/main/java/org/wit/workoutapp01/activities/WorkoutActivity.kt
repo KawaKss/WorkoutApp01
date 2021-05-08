@@ -10,7 +10,7 @@ import org.jetbrains.anko.AnkoLogger
 import org.jetbrains.anko.info
 import org.jetbrains.anko.intentFor
 import org.jetbrains.anko.toast
-import org.wit.workout.R
+import org.wit.workoutapp01.R
 import org.wit.workoutapp01.helpers.readImage
 import org.wit.workoutapp01.helpers.readImageFromPath
 import org.wit.workoutapp01.helpers.showImagePicker

@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import kotlinx.android.synthetic.main.activity_workout.view.*
 import kotlinx.android.synthetic.main.card_workout.view.*
 import kotlinx.android.synthetic.main.card_workout.view.workoutTitle
-import org.wit.workout.R
+import org.wit.workoutapp01.R
 import org.wit.workoutapp01.helpers.readImageFromPath
 import org.wit.workoutapp01.models.WorkoutModel
 
