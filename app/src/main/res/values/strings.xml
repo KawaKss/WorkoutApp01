@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">WorkoutApp01</string>
+    <string name="button_addWorkout">Add Workout</string>
+    <string name="hint_workoutTitle">Workout Title</string>
+    <string name="hint_workoutDescription">Workout Description</string>
+    <string name="hint_workoutLink">Workout Youtube Link</string>
+    <string name="menu_addWorkout">Add</string>
+    <string name="menu_cancelWorkout">Cancel</string>
+    <string name="menu_deleteWorkout">Delete</string>
+    <string name="enter_workout_title">Please enter a Workout Title </string>
+    <string name="save_workout">Save Workout </string>
+    <string name="button_addImage">Add Image </string>
+    <string name="select_workout_image">Select workout image</string>
+    <string name="change_workout_image">Change Image</string>
+    <string name="workout_image">workout image</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
